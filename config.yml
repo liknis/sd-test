@@ -1,0 +1,10 @@
+grid:
+  title: model
+  description: ''
+  format: png
+  author: Unspecified
+axes:
+  Model: 2D--\meinamix_meinaV8.safetensors, 2D--\mixProV4_v4.safetensors, , protogenX53Photorealism_10.safetensors [e3cda540bf], rpg_V4.safetensors,  222\sav_mix_4x4.safetensors, 222\savXL.safetensors,t\kirkwood-2.safetensors, t\ c3_v110.safetensors, t\cyberrealistic_v32.safetensors, t\darkrevpikas_v30Pruned.safetensors, t\dreamscapesDragonfireNEWV20_dsDv20.safetensors, t\etherRealMix_21.safetensors, t\icbinpICantBelieveIts_final.safetensors, t\icomix_V05.safetensors,   t\manmaruMix_v20.safetensors, t\toonyou_beta5Unstable.safetensors, t\universestable_30.safetensors
+  Prompt: "photo. (hyperdetail). lemonade with ice and strawberries. yellow background. modern style. simple. sunlight. glare. hdr. octane render, \U0001F916\U0001F92D\U0001F327\U0001F33E, ((Movie poster)). female astronaut in spacesuit. atompunk style. horror. highly detailed. digital painting. art station. concept art. clear lettering. dramatic light, Raw. sci-fi portrait photograph of a European man in combat clothing. looking at the viewer. 8k uhd. high quality. film grain. drama, (best quality. masterpiece. octane render:1.2). ultra-high resolution. ultra-detailed. professional lighting. radius. physics-based rendering. empty New York City streets. winter city. 3D render. isometric render. game art. 3d model. high poly. Pixar. Unreal Engine rendering, a cat. highly detailed photograph of red cat. cat with pink tartan scarf. by athey gailan. greg rutkowski. greg tocchini. james gilliard. joe fenton. kaete butcher. grunge aesthetic. graffiti tagged wall background, ((anime)). contempt.\
+    \ woman in a bubble skirt and pink coat. dark night. Makoto Shinkai style, ((closed mouth. emotion without words. sticker)). (contempt:1.4). anime. 1girl, young girl by chika umino and Takehiko Inoue. detailed. (manga). illustration"
+  Seed: '237'
